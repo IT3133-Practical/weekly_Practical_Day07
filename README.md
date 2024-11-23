@@ -36,7 +36,7 @@ npm start
 ---
 ## Output
 
-![Screenshot (700)]()
+![Screenshot (700)](https://github.com/IT3133-Practical/weekly_Practical_Day07/blob/main/Screenshot.png)
 
 
 This concise version covers the core points of your app!
